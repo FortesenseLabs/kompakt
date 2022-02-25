@@ -1,0 +1,2 @@
+# small
+A Compression Library
