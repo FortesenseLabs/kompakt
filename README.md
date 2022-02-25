@@ -1,2 +1,2 @@
-# small
-A Compression Library
+# Bach
+A General data compression/decompression library
