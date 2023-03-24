@@ -114,3 +114,4 @@ fn main() {
 }
 
 // https://en.wikipedia.org/wiki/PAQ
+// https://docs.rs/constriction/0.3.0/constriction/
