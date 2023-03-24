@@ -3,3 +3,9 @@ target/
 Cargo.lock
 samples/
 .pytest_cache
+enwik9
+notebooks/*.bin
+notebooks/*.out
+notebooks/*.exe
+datasets/*.zip
+datasets/enwik9
