@@ -19,3 +19,5 @@ For a compression ratio of 1024:1 we have 1GB - 1MB. This means that the compres
 ## Resources
 
 https://www.notion.so/Data-compression-c29e688a2e3442d9af3c015a2a7d71be
+
+https://github.com/bamler-lab/constriction
