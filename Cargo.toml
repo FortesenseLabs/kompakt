@@ -14,4 +14,4 @@ readme = "README.md"
 
 [dependencies]
 constriction = "0.3.0"
-probability = "0.17" 
+probability = "0.20.3"
