@@ -35,6 +35,8 @@ https://en.wikipedia.org/wiki/Huffman_coding
 
 https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Welch
 
+https://www.researchgate.net/publication/305378724_Local_binary_pattern_network_A_deep_learning_approach_for_face_recognition
+
 **Encoding Algorithms:**
 
 - Shannon
