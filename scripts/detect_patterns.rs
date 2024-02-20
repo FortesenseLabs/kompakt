@@ -1,4 +1,4 @@
-// write and implement a algorithm in rust that detects patterns in binary data
+// write and implement a algorithm in python that detects patterns in binary data
 
 // This algorithm takes binary data as input (data), along with the desired pattern length (pattern_length). It iterates over the data, extracting patterns of the specified length. If a pattern is not already present in the patterns vector, it is added. The algorithm then returns the detected patterns.
 

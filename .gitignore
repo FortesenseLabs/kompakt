@@ -7,5 +7,5 @@ enwik9
 notebooks/*.bin
 notebooks/*.out
 notebooks/*.exe
-datasets/*.zip
-datasets/enwik9
+data/*.zip
+data/enwik9
