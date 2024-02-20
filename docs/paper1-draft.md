@@ -33,6 +33,8 @@ The ability to summarize text and enlarge the summary to get the original versio
 
 [Sparse Distributed Representations](https://www.numenta.com/assets/pdf/biological-and-machine-intelligence/BaMI-SDR.pdf)
 
+[Encoders](https://www.numenta.com/assets/pdf/biological-and-machine-intelligence/BaMI-Encoders.pdf)
+
 ![Data SDR](../images/3.jpg)
 
 ## Pseudo-Codes:
