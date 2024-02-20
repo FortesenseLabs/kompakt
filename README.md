@@ -12,12 +12,19 @@ For a compression ratio of 1024:1 we have 1GB - 1MB. This means that the compres
 
 **Dictionary-based compression:** Group data into 4 hexadecimal form, then generate a dictionary based on it. i.e 16 Permutation 4
 
+**Random
 **Questions:**
 
 - How to reverse a hash data to it's original form?
+- Would the mixture of encoding algorithms such as shannon, huffman, and lempel-ziv give a middle-out compression algorithm?
 
-## Resources
+**Encoding Algorithms:**
 
-https://www.notion.so/Data-compression-c29e688a2e3442d9af3c015a2a7d71be
+- Shannon
+- Huffman
+- Lempel-ziv
+- Prediction by Partial Matching (PPM)
 
-https://github.com/bamler-lab/constriction
+
+## Basic Benchmark Goal
+ - [Hutter Prize](http://prize.hutter1.net/)
