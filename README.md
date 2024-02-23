@@ -12,7 +12,6 @@ For a compression ratio of 1024:1 we have 1GB - 1MB. This means that the compres
 
 **Dictionary-based compression:** Group data into 4 hexadecimal form, then generate a dictionary based on it. i.e 16 Permutation 4
 
-**Random
 **Questions:**
 
 - How to reverse a hash data to it's original form?
